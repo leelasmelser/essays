@@ -1,13 +1,14 @@
 .ve-header "woohoo!" wc:Jael_and_Sisera_95fb5c9.jpg
 
+she's ==her=={description="Artemisia Gentileschi"}!
 
 she's literally her ==<3=={Q212657}
 
-she's ==her=={description="Artemisia Gentileschi"}!
-
-
-
 .ve-media https://media.getty.edu/iiif/manifest/1df052c5-be9f-46ea-87a7-9cfb1c243198
+
+
+.ve-map 34.3771053,-118.6693509 12
+    - Q491132
 
 
 
