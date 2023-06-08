@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "c5c404ec"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "blank",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://media.getty.edu/iiif/image/e86b1fb6-5cd7-441c-9255-c592401e4b76",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1031.3095703125,2965.041015625,2487.347900390625,998.92431640625"
+      },
+      "id": "a4d2a6b1"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "caac1061"
   }
 ]
