@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Alphonse Mucha",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://media.getty.edu/iiif/image/e86b1fb6-5cd7-441c-9255-c592401e4b76",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:4125.59375,1246.279541015625,782.38818359375,896.464599609375"
+      },
+      "id": "a4d2a6b1"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9547ef2a"
+  }
+]
