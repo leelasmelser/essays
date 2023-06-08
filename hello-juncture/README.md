@@ -1,4 +1,8 @@
-ve-header "woohoo!" wc:A_Gentileschi_Allegoria_dell%27inclinazione.jpg
+.ve-header "woohoo!" wc:Jael_and_Sisera_95fb5c9.jpg
+
+
+Entity Popover: she's literally her ==<3=={Q212657}
+Text Popover: she's ==her=={description="Artemisia Gentileschi"}!
 
 # Hello, Juncture
 
@@ -27,5 +31,6 @@ An alternative to using a Wikidata identifier for map positioning is to use regu
 
 Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
 
-Entity Popover: she's literally her ==<3=={Q212657}
-Text Popover: she's ==her=={description="Artemisia Gentileschi"}!
+
+
+.ve-media https://media.getty.edu/iiif/manifest/1df052c5-be9f-46ea-87a7-9cfb1c243198
