@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "9547ef2a"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Alphonse Mucha's Wife",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://media.getty.edu/iiif/image/e86b1fb6-5cd7-441c-9255-c592401e4b76",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:913.6912231445312,1520.2904052734375,722.1609497070312,716.9393310546875"
+      },
+      "id": "a4d2a6b1"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c5c404ec"
   }
 ]
