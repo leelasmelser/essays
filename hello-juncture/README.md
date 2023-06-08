@@ -1,3 +1,5 @@
+ve-header "woohoo!" wc:A_Gentileschi_Allegoria_dell%27inclinazione.jpg
+
 # Hello, Juncture
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
@@ -26,4 +28,4 @@ An alternative to using a Wikidata identifier for map positioning is to use regu
 Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
 
 Entity Popover: she's literally her ==<3=={Q212657}
-
+Text Popover: she's ==her=={description="Artemisia Gentileschi"}!
