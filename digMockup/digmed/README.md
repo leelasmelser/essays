@@ -1,9 +1,13 @@
-.ve-header "The History of Nuclear Power" background=DeepSkyBlue
+.ve-header "The History of Nuclear Power" background=MediumSlateBlue sticky
 
-## Origins
-paragraph ab the origins / discovery of nuclear power / research
+## Origins of Nuclear Power
+paragraph ab the origins / discovery of nuclear power / research -- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.[^1] Ultrices gravida dictum fusce ut. Blandit cursus risus at ultrices mi tempus imperdiet. Duis at tellus at urna condimentum mattis pellentesque id nibh. Eget felis eget nunc lobortis. Sagittis aliquam malesuada bibendum arcu vitae elementum. Neque egestas congue quisque egestas diam in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Urna et pharetra pharetra massa massa ultricies mi quis. Sapien faucibus et molestie ac feugiat sed.[^2]
 
-## {.tabs style=height:600px}
+ALL SOURCES FOR WHOLE PAGE THIS PP -- ADD AS THEY APPEAR IN TL 
+[^1]: [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
+[^2]: [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
+
+## {.tabs style=height:1200px}
 
 ### 1930s
 #### 1930
@@ -22,13 +26,14 @@ paragraph ab the origins / discovery of nuclear power / research
 #### 1935
 - Egestas egestas fringilla phasellus faucibus.
 #### 1936
-- A erat nam at lectus urna duis convallis convallis tellus. Fames ac turpis egestas integer eget aliquet. 
+- A erat nam at lectus urna duis convallis convallis tellus. Fames ac turpis egestas integer eget aliquet.
 #### 1937
 - Adipiscing tristique risus nec feugiat.
 #### 1938
 - Adipiscing tristique risus nec feugiat.
 #### 1939
-- Adipiscing tristique risus nec feugiat.##### September 1st, 1939
+- Adipiscing tristique risus nec feugiat.
+##### September 1st, 1939
 
 ### 1940s
 #### 1940
@@ -40,6 +45,17 @@ paragraph ab the origins / discovery of nuclear power / research
 #### 1942
 - Vitae elementum curabitur vitae nunc sed velit dignissim.
 - Adipiscing tristique risus nec feugiat.
+##### December 2nd, 1942
+- Pile-1
+Source 1 [^21]
+[^21]: [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
+
+Source 2 [^22]
+[^22]: [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
+
+Source 3 [^23]
+[^23]: [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
+
 #### 1943
 - Etiam dignissim diam quis enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. 
 #### 1944
@@ -54,6 +70,24 @@ paragraph ab the origins / discovery of nuclear power / research
 - Adipiscing tristique risus nec feugiat.
 #### 1949
 - Adipiscing tristique risus nec feugiat.
+
+ALL SOURCES FOR MANHATTAN PROJ - MOVE AS NEEDED
+Source 1 [^31]
+[^31]: [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
+
+Source 2 [^32]
+[^32]: [https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project](https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project)
+
+Source 3 [^33]
+[^33]: [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
+
+Source 4 [^34]
+[^31]: [https://ahf.nuclearmuseum.org/voices/oral-histories/lilli-hornigs-interview/](https://ahf.nuclearmuseum.org/voices/oral-histories/lilli-hornigs-interview/)
+
+Source 5 [^35]
+[^35]: [https://ahf.nuclearmuseum.org/voices/oral-histories/suzanne-langsdorfs-interview/](https://ahf.nuclearmuseum.org/voices/oral-histories/suzanne-langsdorfs-interview/)
+
+
 
 ### 1950s
 #### 1950
@@ -105,6 +139,13 @@ paragraph ab the origins / discovery of nuclear power / research
 #### 1969
 - Adipiscing tristique risus nec feugiat.
  
+COLD WAR:
+Source 1 [^41]
+[^41]: [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
+
+Source 2 [^42]
+[^42]: [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
+
 ### 1970s
 #### 1970
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -147,12 +188,23 @@ paragraph ab the origins / discovery of nuclear power / research
 #### 1985
 - Egestas egestas fringilla phasellus faucibus.
 #### 1986
-- April 26th, 1986
+##### April 26th, 1986
 
 ## Nuclear Protests
 ### Pro-Nuclear Protests
-literally no other option here guys
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices gravida dictum fusce ut. Blandit cursus risus at ultrices mi tempus imperdiet. Duis at tellus at urna condimentum mattis pellentesque id nibh. Eget felis eget nunc lobortis. Sagittis aliquam malesuada bibendum arcu vitae elementum. Neque egestas congue quisque egestas diam in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Urna et pharetra pharetra massa massa ultricies mi quis. Sapien faucibus et molestie ac feugiat sed.
+souce 1 -- [^51]
+[^51]: [https://www.washingtonpost.com/business/2022/05/24/diablo-canyon-nuclear-climate/](https://www.washingtonpost.com/business/2022/05/24/diablo-canyon-nuclear-climate/)
+
+source 2 -- [^52]
+[^52]: [https://www.washingtonpost.com/business/interactive/2022/nuclear-power-fear/?itid=lk_inline_manual_7](https://www.washingtonpost.com/business/interactive/2022/nuclear-power-fear/?itid=lk_inline_manual_7)
+
+source 3 -- [^53]
+[^53]: [https://vimeo.com/77888289](https://vimeo.com/77888289)
+
+source 4 -- [^54]
+[^54]: [https://www.jstor.org/stable/44017053](https://www.jstor.org/stable/44017053)
 
 ### Anti-Nuclear Protests
-unfortunatly the anti nuclear propagana is really good
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices gravida dictum fusce ut. Blandit cursus risus at ultrices mi tempus imperdiet. Duis at tellus at urna condimentum mattis pellentesque id nibh. Eget felis eget nunc lobortis. Sagittis aliquam malesuada bibendum arcu vitae elementum. Neque egestas congue quisque egestas diam in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Urna et pharetra pharetra massa massa ultricies mi quis. Sapien faucibus et molestie ac feugiat sed.
 
