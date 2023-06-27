@@ -193,6 +193,7 @@ Source 2 [^42]
 ## Nuclear Protests
 ### Pro-Nuclear Protests
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices gravida dictum fusce ut. Blandit cursus risus at ultrices mi tempus imperdiet. Duis at tellus at urna condimentum mattis pellentesque id nibh. Eget felis eget nunc lobortis. Sagittis aliquam malesuada bibendum arcu vitae elementum. Neque egestas congue quisque egestas diam in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Urna et pharetra pharetra massa massa ultricies mi quis. Sapien faucibus et molestie ac feugiat sed.
+
 souce 1 -- [^51]
 [^51]: [https://www.washingtonpost.com/business/2022/05/24/diablo-canyon-nuclear-climate/](https://www.washingtonpost.com/business/2022/05/24/diablo-canyon-nuclear-climate/)
 
@@ -208,3 +209,11 @@ source 4 -- [^54]
 ### Anti-Nuclear Protests
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices gravida dictum fusce ut. Blandit cursus risus at ultrices mi tempus imperdiet. Duis at tellus at urna condimentum mattis pellentesque id nibh. Eget felis eget nunc lobortis. Sagittis aliquam malesuada bibendum arcu vitae elementum. Neque egestas congue quisque egestas diam in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Urna et pharetra pharetra massa massa ultricies mi quis. Sapien faucibus et molestie ac feugiat sed.
 
+souce 1 -- [^61]
+[^61]: [https://cnduk.org/campaigns/no-nuclear-power/](https://cnduk.org/campaigns/no-nuclear-power/)
+
+source 2 -- [^62]
+[^62]: [https://www.greenpeace.org/usa/nuclear-power-is-a-losing-proposition/](https://www.greenpeace.org/usa/nuclear-power-is-a-losing-proposition/)
+
+source 3 -- [^63]
+[^63]: [https://www.jstor.org/stable/pdf/24145787.pdf](https://www.jstor.org/stable/pdf/24145787.pdf)
