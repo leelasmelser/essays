@@ -3,9 +3,16 @@
 ## Origins of Nuclear Power
 paragraph ab the origins / discovery of nuclear power / research -- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.[^1] Ultrices gravida dictum fusce ut. Blandit cursus risus at ultrices mi tempus imperdiet. Duis at tellus at urna condimentum mattis pellentesque id nibh. Eget felis eget nunc lobortis. Sagittis aliquam malesuada bibendum arcu vitae elementum. Neque egestas congue quisque egestas diam in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Urna et pharetra pharetra massa massa ultricies mi quis. Sapien faucibus et molestie ac feugiat sed.[^2]
 
+The idea of the atom has been around for centuries – the Greeks believing that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible. In 1789, a German chemist discovered the element Uranium – named after the planet Uranus.
+[^3]
+
+
+
+
 ALL SOURCES FOR WHOLE PAGE THIS PP -- ADD AS THEY APPEAR IN TL 
 [^1]: [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
 [^2]: [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
+[^3]: [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
 
 ## {.tabs style=height:1200px}
 
