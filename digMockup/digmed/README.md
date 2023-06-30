@@ -12,30 +12,24 @@ ALL SOURCES FOR WHOLE PAGE THIS PP -- ADD AS THEY APPEAR IN TL
 ## {.tabs style=height:1200px}
 
 ### 1930s
-#### 1930
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Adipiscing tristique risus nec feugiat.
-#### 1931
-- Arcu dui vivamus arcu felis bibendum ut tristique et egestas.
-- Adipiscing tristique risus nec feugiat.
 #### 1932
-- Vitae elementum curabitur vitae nunc sed velit dignissim.
-- Adipiscing tristique risus nec feugiat.
-#### 1933
-- Etiam dignissim diam quis enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. 
+ - James Chadwick discovers the neutron.
+- April 14 – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
 #### 1934
-- Odio eu feugiat pretium nibh ipsum consequat nisl vel.
+- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements.
+Fermi [^11]
+
+[^11]: [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
+
 #### 1935
-- Egestas egestas fringilla phasellus faucibus.
-#### 1936
-- A erat nam at lectus urna duis convallis convallis tellus. Fames ac turpis egestas integer eget aliquet.
-#### 1937
-- Adipiscing tristique risus nec feugiat.
+- 
 #### 1938
-- Adipiscing tristique risus nec feugiat.
+- 
 #### 1939
-- Adipiscing tristique risus nec feugiat.
-##### September 1st, 1939
+- 
+- **September 1st - World War Two begins.**
+- October 11th - The Einstein-Szilard letter is delivered to Roosevelt, advising him to look into nuclear fission as a weapon, as Germany may already be researching it.
+- October 21st - The first meeting of the Advisory Committee on Uranium.
 
 ### 1940s
 #### 1940
