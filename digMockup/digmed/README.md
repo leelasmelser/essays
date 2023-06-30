@@ -1,10 +1,8 @@
 .ve-header "The History of Nuclear Power" background=MediumSlateBlue sticky
 
 ## Origins of Nuclear Power
-The idea of the atom has been around for centuries – the ancient Greeks believed that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible. In 1789, a German chemist discovered the element Uranium – named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation – an energy released by atoms that appears as particles, like neutrons, or electromagnetic waves, like gamma or X-rays.[^1] Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both uranium and radium, caused a photographic plate to darken, due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898.[^2] Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
+The idea of the atom has been around for centuries – the Greeks believing that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible. In 1789, a German chemist discovered the element Uranium – named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation – an energy released by atoms that appears as particles, like neutrons, or electromagnetic waves, like gamma or X-rays.[^1] Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898.[^2] Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
 
-
-ALL SOURCES FOR WHOLE PAGE THIS PP -- ADD AS THEY APPEAR IN TL 
 [^1]: [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
 [^2]: [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
 [^3]: [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
@@ -13,20 +11,20 @@ ALL SOURCES FOR WHOLE PAGE THIS PP -- ADD AS THEY APPEAR IN TL
 
 ### 1930s
 #### 1932
- - James Chadwick discovers the neutron.
-- April 14 – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
+James Chadwick discovers the neutron.
+April 14th – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
 #### 1934
-- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements.
-Fermi [^11]
-
+- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. [^11]
 [^11]: [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
-
 #### 1935
-- 
+- October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.
 #### 1938
-- 
+- Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements – such as barium – which demonstrated atomic fission.
 #### 1939
-- 
+- Lise Meitner, Niels Bohr, and Otto Frisch used Hahn and Strassmann’s discovery to confirm Einstein’s theory of mass and energy from 1905 by calculating the masses of the fission products and finding that they did not equal the uranium’s mass, proving that it had been turned into energy during fission.
+Leo Szilard and Fermi propose a new method of slowing emitted neutrons to more effectively cause fission.
+Francis Perrin demonstrates fission in a uranium and water mixture and uses a neutron-absorbing material to control the reaction.  
+Werner Heisenberg calculated the possibility of a nuclear chain reaction and that it could generate energy.
 - **September 1st - World War Two begins.**
 - October 11th - The Einstein-Szilard letter is delivered to Roosevelt, advising him to look into nuclear fission as a weapon, as Germany may already be researching it.
 - October 21st - The first meeting of the Advisory Committee on Uranium.
