@@ -7,12 +7,20 @@ The idea of the atom has been around for centuries – the Greeks believing that
 [^2]: [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
 [^3]: [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
 
+
+TO-DO: 
+- sort / assign footnote sources
+- source pictures
+- 40's
+- Protests
+
+
 ## {.tabs style=height:1200px}
 
 ### 1930s
 #### 1932
-James Chadwick discovers the neutron.
-April 14th – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
+- James Chadwick discovers the neutron.
+- April 14th – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
 #### 1934
 - Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. [^11]
 [^11]: [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
@@ -22,12 +30,12 @@ April 14th – John Cockcroft and Ernest Walton create nuclear transformations b
 - Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements – such as barium – which demonstrated atomic fission.
 #### 1939
 - Lise Meitner, Niels Bohr, and Otto Frisch used Hahn and Strassmann’s discovery to confirm Einstein’s theory of mass and energy from 1905 by calculating the masses of the fission products and finding that they did not equal the uranium’s mass, proving that it had been turned into energy during fission.
-Leo Szilard and Fermi propose a new method of slowing emitted neutrons to more effectively cause fission.
-Francis Perrin demonstrates fission in a uranium and water mixture and uses a neutron-absorbing material to control the reaction.  
-Werner Heisenberg calculated the possibility of a nuclear chain reaction and that it could generate energy.
+- Leo Szilard and Fermi propose a new method of slowing emitted neutrons to more effectively cause fission.
+- Francis Perrin demonstrates fission in a uranium and water mixture and uses a neutron-absorbing material to control the reaction.  
+- Werner Heisenberg calculated the possibility of a nuclear chain reaction and that it could generate energy.
 - **September 1st - World War Two begins.**
 - October 11th - The Einstein-Szilard letter is delivered to Roosevelt, advising him to look into nuclear fission as a weapon, as Germany may already be researching it.
-- October 21st - The first meeting of the Advisory Committee on Uranium.
+- October 21st - The Advisory Committee on Uranium meets for the first time.
 
 ### 1940s
 #### 1940
@@ -85,53 +93,43 @@ Source 5 [^35]
 
 ### 1950s
 #### 1950
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Adipiscing tristique risus nec feugiat.
-#### 1951
-- Arcu dui vivamus arcu felis bibendum ut tristique et egestas.
-- Adipiscing tristique risus nec feugiat.
+- December 20th - The first usable power from a nuclear source lights four lightbulbs at the Experimental Breeder Reactor 1 in Arco, Idaho.
 #### 1952
-- Vitae elementum curabitur vitae nunc sed velit dignissim.
-- Adipiscing tristique risus nec feugiat.
+- November 1st - The United States tests the first hydrogen bomb, called Ivy Mike, which had a yield of 10.4 megatons.
 #### 1953
-- Etiam dignissim diam quis enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. 
+- August 12th - The Soviet Union tests a thermonuclear device, RDS-6s, for the first time. 
 #### 1954
-- Odio eu feugiat pretium nibh ipsum consequat nisl vel.
+- March 1st - The United States performs the Castle Bravo test, resulting in the largest yield by an American nuclear device at about 15 megatons.
 #### 1955
-- Egestas egestas fringilla phasellus faucibus.
-#### 1956
-- A erat nam at lectus urna duis convallis convallis tellus. Fames ac turpis egestas integer eget aliquet. 
+- July 17th - Arco, Idaho, becomes the first nuclear-powered town using the water boiler reactor BORAX III.
+- August 8th - 20th - The first United Nations International Conference on the Peaceful Uses of Atomic Energy was held in Geneva, Switzerland.
+- November 22nd - The Soviet Union tests its first hydrogen bomb.
 #### 1957
-- Adipiscing tristique risus nec feugiat.
+- October 1st - The United Nations created the *International Atomic Energy Agency* (IAEA) to promote peaceful applications of nuclear power and to prevent the spread of nuclear weapons.
+- October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
 #### 1958
-- Adipiscing tristique risus nec feugiat.
-#### 1959
-- Adipiscing tristique risus nec feugiat.
+- The first successful United States test of ICBM took place, and NASA was created.
+- The United States, the Soviet Union, and the United Kingdom tested over 100 nuclear devices.
 
 ### 1960s
 #### 1960
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Adipiscing tristique risus nec feugiat.
+- February 13th - France conducted their first nuclear test, making them the world’s 4th nuclear power.
+- November 22nd - The United States Navy commissioned the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
 #### 1961
-- Arcu dui vivamus arcu felis bibendum ut tristique et egestas.
-- Adipiscing tristique risus nec feugiat.
+- October 30th - The Soviet Union tests a hydrogen bomb with a yield of **50 megatons** named *Tsar Bomba* – the biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about **15 megatons.**[^36]
+[^36]: [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
-- Vitae elementum curabitur vitae nunc sed velit dignissim.
-- Adipiscing tristique risus nec feugiat.
+- October 16th - 29th - The *Cuban Missile Crisis* was a thirteen-day period in which the United States and the Soviet Union came the closest to nuclear war.
 #### 1963
-- Etiam dignissim diam quis enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. 
+- August 5th - the *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom was signed, limiting the kinds of nuclear testing that could be done. 
 #### 1964
-- Odio eu feugiat pretium nibh ipsum consequat nisl vel.
+- President Johnson signs the *Private Ownership of Special Nuclear Materials Act,* allowing the nuclear power industry to create its own fuel and requiring private ownership of uranium fuel.
 #### 1965
-- Egestas egestas fringilla phasellus faucibus.
-#### 1966
-- A erat nam at lectus urna duis convallis convallis tellus. Fames ac turpis egestas integer eget aliquet. 
-#### 1967
-- Adipiscing tristique risus nec feugiat.
+- April 3rd - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
 #### 1968
-- Adipiscing tristique risus nec feugiat.
+- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) signed.
 #### 1969
-- Adipiscing tristique risus nec feugiat.
+- 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
  
 COLD WAR:
 Source 1 [^41]
@@ -142,47 +140,28 @@ Source 2 [^42]
 
 ### 1970s
 #### 1970
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Adipiscing tristique risus nec feugiat.
-#### 1971
-- Arcu dui vivamus arcu felis bibendum ut tristique et egestas.
-- Adipiscing tristique risus nec feugiat.
+- March 5th - The *Treaty for Non-Proliferation of Nuclear Weapons* becomes effective.
 #### 1972
-- Vitae elementum curabitur vitae nunc sed velit dignissim.
-- Adipiscing tristique risus nec feugiat.
-#### 1973
-- Etiam dignissim diam quis enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. 
+- May 26th - The *Interim Strategic Arms Limitation Treaty,* or SALT I, and the *Anti-Ballistic Missile* Treaty, or ABM, was signed by the United States and the Soviet Union. 
 #### 1974
-- Odio eu feugiat pretium nibh ipsum consequat nisl vel.
-#### 1975
-- Egestas egestas fringilla phasellus faucibus.
-#### 1976
-- A erat nam at lectus urna duis convallis convallis tellus. Fames ac turpis egestas integer eget aliquet. 
+- October 11th - The *Energy Reorganization Act* of 1974 divides the Atomic Energy Commission’s functions, creating the Energy Research and Development Administration (ERDA) for research and design and the Nuclear Regulatory Commission (NRC) to regulate nuclear power.
 #### 1977
-- Adipiscing tristique risus nec feugiat.
-#### 1978
-- Adipiscing tristique risus nec feugiat.
+- August 4th - President Carter signs the *Department of Energy Organization Act,* establishing the Department of Energy.
+- October 1st - The Department of Energy begins operations.
 #### 1979
-- Adipiscing tristique risus nec feugiat.
+- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.
+- June 17th - The United States and the Soviet Union signed the SALT II treaty, which limits the nuclear forces of both nations.
+- December 24th - The Soviet Union invaded Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
+
 
 ### 1980s
 #### 1980
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Adipiscing tristique risus nec feugiat.
-#### 1981
-- Arcu dui vivamus arcu felis bibendum ut tristique et egestas.
-- Adipiscing tristique risus nec feugiat.
-#### 1982
-- Vitae elementum curabitur vitae nunc sed velit dignissim.
-- Adipiscing tristique risus nec feugiat.
+- January 2nd - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
 #### 1983
-- Etiam dignissim diam quis enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. 
-#### 1984
-- Odio eu feugiat pretium nibh ipsum consequat nisl vel.
-#### 1985
-- Egestas egestas fringilla phasellus faucibus.
+- January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
+- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.
 #### 1986
-##### April 26th, 1986
+- **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**
 
 ## Nuclear Protests
 ### Pro-Nuclear Protests
