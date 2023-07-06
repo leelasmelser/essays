@@ -11,7 +11,6 @@ The idea of the atom has been around for centuries – the Greeks believing that
 TO-DO: 
 - sort / assign footnote sources
 - source pictures
-- 40's
 - Protests
 
 
@@ -179,14 +178,35 @@ source 3 -- [^53]
 source 4 -- [^54]
 [^54]: [https://www.jstor.org/stable/44017053](https://www.jstor.org/stable/44017053)
 
-### Anti-Nuclear Protests
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices gravida dictum fusce ut. Blandit cursus risus at ultrices mi tempus imperdiet. Duis at tellus at urna condimentum mattis pellentesque id nibh. Eget felis eget nunc lobortis. Sagittis aliquam malesuada bibendum arcu vitae elementum. Neque egestas congue quisque egestas diam in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Urna et pharetra pharetra massa massa ultricies mi quis. Sapien faucibus et molestie ac feugiat sed.
 
-souce 1 -- [^61]
+
+### Anti-Nuclear Protests
+The Cold War sparked anti-nuclear weapons protests all over the world, eventually snowballing into an anti-nuclear power movement from the 50s[^61] into the 60s. Today, many anti-nuclear groups protest both nuclear weapons and power. According to these groups, nuclear power is dangerous and expensive[^62] – at a far greater risk of accidents or attack than any other type of power plant, as well as being environmentally harmful in its fuel mining and waste disposal. These groups argue, especially after the Fukushima disaster in 2011, that nuclear power can never be completely safe, so should not be used at all.[^63]
+
+#### A Short List of Protests Against Nuclear Power [^64]
+- 1961 - Women Strike for Peace marched through 60 cities in the United States
+- 1975 - Protest of a proposed plant in Wyhl, West Germany
+- 1981 - Germany's largest anti-nuclear power protest against the power plant to the west of Hamburg 
+-1986 - Great Peace March for Global Nuclear Disarmament from Los Angeles to Washington D.C.
+-1991 - Nevada Semipalatinsk protests led to the closure of the test site in north-east Kazakhstan
+- 2007 - March in Kudzus, Indonesia protesting plans to build a nuclear power plant.
+- 2010 - human chain (KETTENreAKTION!) between 2 nuclear plants in Germany
+- 2011 - protest against nuclear power in Switzerland
+
+Some anti-nuclear groups include: Greenpeace, Friends of the Earth International, World Disarmament Campaign, the Sierra Club, Nevada Desert Experiment, Nuclear Control Institute, and the Musicians United for Safe Energy. [^65] Some anti-nuclear advocates also happen to be fossil fuel companies[^66], such as: The American Petroleum Institute, Pennsylvania Independent Oil and Gas Association (PIOGA), Marcellus Shale Coalition, ExxonMobil, Chevron, and Royal Dutch Shell, to name a few.[^67]
+
+
+
 [^61]: [https://cnduk.org/campaigns/no-nuclear-power/](https://cnduk.org/campaigns/no-nuclear-power/)
 
-source 2 -- [^62]
 [^62]: [https://www.greenpeace.org/usa/nuclear-power-is-a-losing-proposition/](https://www.greenpeace.org/usa/nuclear-power-is-a-losing-proposition/)
 
-source 3 -- [^63]
-[^63]: [https://www.jstor.org/stable/pdf/24145787.pdf](https://www.jstor.org/stable/pdf/24145787.pdf)
+[^63]: [https://en.wikipedia.org/wiki/Anti-nuclear_movement#Fossil_fuels_industry](https://en.wikipedia.org/wiki/Anti-nuclear_movement#Fossil_fuels_industry)
+
+[^64]: [https://en.wikipedia.org/wiki/Anti-nuclear_protests](https://en.wikipedia.org/wiki/Anti-nuclear_protests)
+
+[^65]: [https://en.wikipedia.org/wiki/Anti-nuclear_groups_in_the_United_States](https://en.wikipedia.org/wiki/Anti-nuclear_groups_in_the_United_States)
+
+[^66]: [https://www.forbes.com/sites/michaelshellenberger/2019/03/28/the-dirty-secret-of-renewables-advocates-is-that-they-protect-fossil-fuel-interests-not-the-climate/?sh=664987991b07](https://www.forbes.com/sites/michaelshellenberger/2019/03/28/the-dirty-secret-of-renewables-advocates-is-that-they-protect-fossil-fuel-interests-not-the-climate/?sh=664987991b07)
+
+[^67]: [https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/?sh=500938d67453](https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/?sh=500938d67453)
