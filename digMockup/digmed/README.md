@@ -216,7 +216,7 @@ INTRO TEXT
 
 *It’s Dangerous & Dirty!* Looking at the rate of death from accidents and air pollution, as well as the greenhouse gas emissions from eight different energy sources – coal, oil, natural gas, biomass, hydropower, wind, nuclear energy, and solar – the conclusions aren’t difficult to draw. Of these sources, nuclear has the second lowest rate of death and lowest greenhouse gas emissions.[^53]
 
-.ve-media wc:https://ourworldindata.org/uploads/2020/11/5-Bar-chart-%E2%80%93-What-is-the-safest-form-of-energy-1536x827.png
+![](https://ourworldindata.org/uploads/2020/11/5-Bar-chart-%E2%80%93-What-is-the-safest-form-of-energy-1536x827.png)
 
 *What About the Waste?* There is a very common misconception about how much waste there actually is – “all of the nuclear waste ever produced from commercial power production could fit on a football field about 24 feet high.”[^54]
 
@@ -241,17 +241,46 @@ Some pro-nuclear groups include: the World Nuclear Association, the Breakthrough
 ### Anti-Nuclear Protests
 The Cold War sparked anti-nuclear weapons protests all over the world, eventually snowballing into an anti-nuclear power movement from the 50s[^61] into the 60s. Today, many anti-nuclear groups protest both nuclear weapons and power. According to these groups, nuclear power is dangerous and expensive[^62] – at a far greater risk of accidents or attack than any other type of power plant, as well as being environmentally harmful in its fuel mining and waste disposal. These groups argue, especially after the Fukushima disaster in 2011, that nuclear power can never be completely safe, so should not be used at all.[^63]
 
-#### A Short List of Protests Against Nuclear Power [^64]
-- 1961 - Women Strike for Peace marched through 60 cities in the United States
-- 1975 - Protest of a proposed plant in Wyhl, West Germany
-- 1981 - Germany's largest anti-nuclear power protest against the power plant to the west of Hamburg 
-- 1986 - Great Peace March for Global Nuclear Disarmament from Los Angeles to Washington D.C.
-- 1991 - Nevada Semipalatinsk protests led to the closure of the test site in north-east Kazakhstan
-- 2007 - March in Kudzus, Indonesia protesting plans to build a nuclear power plant.
-- 2010 - human chain (KETTENreAKTION!) between 2 nuclear plants in Germany
-- 2011 - protest against nuclear power in Switzerland
+Some anti-nuclear groups include: Greenpeace, Friends of the Earth International, World Disarmament Campaign, the Sierra Club, Nevada Desert Experiment, Nuclear Control Institute, and the Musicians United for Safe Energy. [^64] Some anti-nuclear advocates also happen to be fossil fuel companies[^65], such as: The American Petroleum Institute, Pennsylvania Independent Oil and Gas Association (PIOGA), Marcellus Shale Coalition, ExxonMobil, Chevron, and Royal Dutch Shell, to name a few.[^66]
 
-Some anti-nuclear groups include: Greenpeace, Friends of the Earth International, World Disarmament Campaign, the Sierra Club, Nevada Desert Experiment, Nuclear Control Institute, and the Musicians United for Safe Energy. [^65] Some anti-nuclear advocates also happen to be fossil fuel companies[^66], such as: The American Petroleum Institute, Pennsylvania Independent Oil and Gas Association (PIOGA), Marcellus Shale Coalition, ExxonMobil, Chevron, and Royal Dutch Shell, to name a few.[^67]
+
+### A Short List of Protests Against Nuclear Power [^67] {.cards}
+
+#### 1963 {href=#}
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1f/Anti-nuclear_protest_at_the_NTS_2.jpg)
+
+A protest at the Nevada Test Site.
+
+#### 1977 {href=#}
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/23/Anti-nuclear_protest%2C_USA%2C_1977_%282%29.jpg)
+
+A protest in Boston, Massachusetts.
+
+#### 1980 {href=#}
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/de/Anti-nuclear_weapons_protest%2C_UK_1980.JPG)
+
+A march in Oxford, England.
+
+#### 2009 {href=#}
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Anti-Atom-Demo_%283891870071%29.jpg)
+
+A protest in Berlin, Germany.
+
+#### 2011 {href=#}
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8e/Anti-nuclear_protest_Madrid_20110508-B.jpg)
+
+A protest against Spanish nuclear plants.
+
+#### 2013 {href=#}
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/19/Longmen_Nuclear_Power_Plant_from_VOA_%284%29.jpg?20130923054741)
+
+A protest in Tawian.
 
 
 
@@ -261,10 +290,10 @@ Some anti-nuclear groups include: Greenpeace, Friends of the Earth International
 
 [^63]: [https://en.wikipedia.org/wiki/Anti-nuclear_movement#Fossil_fuels_industry](https://en.wikipedia.org/wiki/Anti-nuclear_movement#Fossil_fuels_industry)
 
-[^64]: [https://en.wikipedia.org/wiki/Anti-nuclear_protests](https://en.wikipedia.org/wiki/Anti-nuclear_protests)
+[^64]: [https://en.wikipedia.org/wiki/Anti-nuclear_groups_in_the_United_States](https://en.wikipedia.org/wiki/Anti-nuclear_groups_in_the_United_States)
 
-[^65]: [https://en.wikipedia.org/wiki/Anti-nuclear_groups_in_the_United_States](https://en.wikipedia.org/wiki/Anti-nuclear_groups_in_the_United_States)
+[^65]: [https://www.forbes.com/sites/michaelshellenberger/2019/03/28/the-dirty-secret-of-renewables-advocates-is-that-they-protect-fossil-fuel-interests-not-the-climate/?sh=664987991b07](https://www.forbes.com/sites/michaelshellenberger/2019/03/28/the-dirty-secret-of-renewables-advocates-is-that-they-protect-fossil-fuel-interests-not-the-climate/?sh=664987991b07)
 
-[^66]: [https://www.forbes.com/sites/michaelshellenberger/2019/03/28/the-dirty-secret-of-renewables-advocates-is-that-they-protect-fossil-fuel-interests-not-the-climate/?sh=664987991b07](https://www.forbes.com/sites/michaelshellenberger/2019/03/28/the-dirty-secret-of-renewables-advocates-is-that-they-protect-fossil-fuel-interests-not-the-climate/?sh=664987991b07)
+[^66]: [https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/?sh=500938d67453](https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/?sh=500938d67453)
 
-[^67]: [https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/?sh=500938d67453](https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/?sh=500938d67453)
+[^67]: [https://en.wikipedia.org/wiki/Anti-nuclear_protests](https://en.wikipedia.org/wiki/Anti-nuclear_protests)
