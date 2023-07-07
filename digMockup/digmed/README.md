@@ -30,7 +30,8 @@ The idea of the atom has been around for centuries – the Greeks believing that
 - October 11th - The Einstein-Szilard letter is delivered to Roosevelt, advising him to look into nuclear fission as a weapon, as Germany may already be researching it.
 - October 21st - The Advisory Committee on Uranium meets for the first time.
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/2d/1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg?20180814064244)
+.ve-media wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg
+
 
 ### 1940s
 #### 1940
@@ -60,7 +61,9 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - September 29th - Secretary of War Robert P. Patterson authorizes Site X, the Oak Ridge, Tennessee laboratory.
 - October 19th - Groves appoints Robert Oppenheimer to coordinate the project at Site Y, the Los Alamos, New Mexico laboratory.
 - **December 2nd - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.**[^21] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^22] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^23]
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chicago_pile_I_banner.jpg/1596px-Chicago_pile_I_banner.jpg?20130618101225)
+
+.ve-media wc:Chicago_pile_I_banner.jpg
+
 [^21]: Lerner, Louise. “The First Nuclear Reactor, Explained.” University of Chicago News, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
 
 [^22]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” University of Chicago News, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
@@ -121,8 +124,8 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 #### 1949
 - March 1st - The AEC announces the selection of a site in Idaho for the National Reactor Testing Station.
 - August 29th - The Soviet Union tests its first atomic bomb, called ‘First Lightning’ by the West.
+.ve-media wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/8a/Crossroads_Baker_bomb_explosion%2C_photographed_form_a_Grumman_F6F-5K_Hellcat_drone%2C_25_July_1946.jpg?20200607111956)
 
 [^31]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
 
@@ -152,7 +155,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 #### 1958
 - The first successful United States test of ICBM took place, and NASA was created.
 - The United States, the Soviet Union, and the United Kingdom tested over 100 nuclear devices.
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy%2C_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg/1600px-Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy%2C_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg?20221004221316)
+.ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg
 
 ### 1960s
 #### 1960
@@ -173,8 +176,8 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) signed.[^42]
 #### 1969
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
- 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_%2810967640793%29.jpg/618px-Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_%2810967640793%29.jpg) 
+.ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg
+
 [^41]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” Arms Races in International Politics: From the Nineteenth to the Twenty-First Century, Oxford University Press, [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
 [^42]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
@@ -193,8 +196,8 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.
 - June 17th - The United States and the Soviet Union signed the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24th - The Soviet Union invaded Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
+.ve-media wc:3MileIsland.jpg
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Three_Mile_Island_-_February_1979_%28Colorized%29.jpg?20221028155224)
 ### 1980s
 #### 1980
 - January 2nd - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
@@ -203,5 +206,5 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.
 #### 1986
 - **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/1600px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?20130624160924)
 
+.ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg
