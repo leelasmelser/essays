@@ -9,7 +9,6 @@ The idea of the atom has been around for centuries – the Greeks believing that
 
 
 # **TO-DO: 
-# **- source pictures
 # ****- MLA Footnotes / endnotes?**
 
 
