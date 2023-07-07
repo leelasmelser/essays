@@ -8,10 +8,9 @@ The idea of the atom has been around for centuries – the Greeks believing that
 [^3]: [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
 
 
-TO-DO: 
-- source pictures
-- Pro-Power
-- MLA Footnotes / endnotes?
+# **TO-DO: 
+# **- source pictures
+# ****- MLA Footnotes / endnotes?**
 
 
 ## {.tabs style=height:1200px}
@@ -208,20 +207,36 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 
 ## Nuclear Protests
 ### Pro-Nuclear Protests
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices gravida dictum fusce ut. Blandit cursus risus at ultrices mi tempus imperdiet. Duis at tellus at urna condimentum mattis pellentesque id nibh. Eget felis eget nunc lobortis. Sagittis aliquam malesuada bibendum arcu vitae elementum. Neque egestas congue quisque egestas diam in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Urna et pharetra pharetra massa massa ultricies mi quis. Sapien faucibus et molestie ac feugiat sed.
+INTRO TEXT
+[^50]
+[^51]
+[^52]
 
-souce 1 -- [^51]
-[^51]: [https://www.washingtonpost.com/business/2022/05/24/diablo-canyon-nuclear-climate/](https://www.washingtonpost.com/business/2022/05/24/diablo-canyon-nuclear-climate/)
+*It’s Expensive!* It is, yes. Because of construction and installation costs, nuclear energy is one of the most expensive forms of energy – far more than solar or wind. Unlike solar or energy, nuclear plants can keep creating energy 24/7, even when the sun isn’t out or the wind isn’t blowing. Nuclear Power Versus Renewable Energy. 
 
-source 2 -- [^52]
-[^52]: [https://www.washingtonpost.com/business/interactive/2022/nuclear-power-fear/?itid=lk_inline_manual_7](https://www.washingtonpost.com/business/interactive/2022/nuclear-power-fear/?itid=lk_inline_manual_7)
+*It’s Dangerous & Dirty!* Looking at the rate of death from accidents and air pollution, as well as the greenhouse gas emissions from eight different energy sources – coal, oil, natural gas, biomass, hydropower, wind, nuclear energy, and solar – the conclusions aren’t difficult to draw. Of these sources, nuclear has the second lowest rate of death and lowest greenhouse gas emissions.[^53]
 
-source 3 -- [^53]
-[^53]: [https://vimeo.com/77888289](https://vimeo.com/77888289)
+.ve-media wc:https://ourworldindata.org/uploads/2020/11/5-Bar-chart-%E2%80%93-What-is-the-safest-form-of-energy-1536x827.png
 
-source 4 -- [^54]
-[^54]: [https://www.jstor.org/stable/44017053](https://www.jstor.org/stable/44017053)
+*What About the Waste?* There is a very common misconception about how much waste there actually is – “all of the nuclear waste ever produced from commercial power production could fit on a football field about 24 feet high.”[^54]
 
+*How about the Land Usage?* A 1,000-megawatt nuclear reactor needs about **1.3 square miles** of land. To produce the same amount, a wind farm needs between **260 and 360 square miles**. A solar facility needs between **45 and 75 square miles**. To put this into perspective, the District of Columbia takes up about **68 square miles** and the five boroughs in New York City take up **305 square miles**.[^55]
+
+Some pro-nuclear groups include: the World Nuclear Association, the Breakthrough Institute, Generation Atomic, the Earth Institute, the Thorium Energy Alliance, and the Vatican. [^56]
+
+[^50]: [https://en.wikipedia.org/wiki/Pro-nuclear_movement](https://en.wikipedia.org/wiki/Pro-nuclear_movement)
+
+[^51]: [https://www.washingtonpost.com/business/interactive/2022/nuclear-power-fear/?itid=lk_inline_manual_7](https://www.washingtonpost.com/business/interactive/2022/nuclear-power-fear/?itid=lk_inline_manual_7)
+
+[^52]: [https://www.jstor.org/stable/44017053](https://www.jstor.org/stable/44017053)
+
+[^53]: [https://ourworldindata.org/safest-sources-of-energy](https://ourworldindata.org/safest-sources-of-energy)
+
+[^54]: [https://www.generationatomic.org/why-nuclear/](https://www.generationatomic.org/why-nuclear/)
+
+[^55]: [https://www.nei.org/news/2015/land-needs-for-wind-solar-dwarf-nuclear-plants](https://www.nei.org/news/2015/land-needs-for-wind-solar-dwarf-nuclear-plants)
+
+[^56]: [https://www.vaticannews.va/en/vatican-city/news/2019-09/holy-see-gallagher-iaea-conference-nuclear-peace-development.html](https://www.vaticannews.va/en/vatican-city/news/2019-09/holy-see-gallagher-iaea-conference-nuclear-peace-development.html)
 
 ### Anti-Nuclear Protests
 The Cold War sparked anti-nuclear weapons protests all over the world, eventually snowballing into an anti-nuclear power movement from the 50s[^61] into the 60s. Today, many anti-nuclear groups protest both nuclear weapons and power. According to these groups, nuclear power is dangerous and expensive[^62] – at a far greater risk of accidents or attack than any other type of power plant, as well as being environmentally harmful in its fuel mining and waste disposal. These groups argue, especially after the Fukushima disaster in 2011, that nuclear power can never be completely safe, so should not be used at all.[^63]
