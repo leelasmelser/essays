@@ -3,13 +3,9 @@
 ## Origins of Nuclear Power
 The idea of the atom has been around for centuries – the Greeks believing that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible. In 1789, a German chemist discovered the element Uranium – named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation – an energy released by atoms that appears as particles, like neutrons, or electromagnetic waves, like gamma or X-rays.[^1] Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898.[^2] Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
 
-[^1]: [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
-[^2]: [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
-[^3]: [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
-
-
-# **TO-DO: 
-# ****- MLA Footnotes / endnotes?**
+[^1]: “Outline History of Nuclear Energy.” World Nuclear Association, Nov. 2020. [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
+[^2]: “The History of Nuclear Energy.” The Department of Energy, [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
+[^3]: “Ionizing Radiation, Health Effects and Protective Measures.” World Health Organization, 29 Apr. 2016, [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
 
 
 ## {.tabs style=height:1200px}
@@ -20,7 +16,7 @@ The idea of the atom has been around for centuries – the Greeks believing that
 - April 14th – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
 #### 1934
 - Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. [^11]
-[^11]: [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
+[^11]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
 #### 1935
 - October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.
 #### 1938
@@ -65,11 +61,11 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - October 19th - Groves appoints Robert Oppenheimer to coordinate the project at Site Y, the Los Alamos, New Mexico laboratory.
 - **December 2nd - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.**[^21] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^22] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^23]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chicago_pile_I_banner.jpg/1596px-Chicago_pile_I_banner.jpg?20130618101225)
-[^21]: [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
+[^21]: Lerner, Louise. “The First Nuclear Reactor, Explained.” University of Chicago News, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
 
-[^22]: [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
+[^22]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” University of Chicago News, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
 
-[^23]: [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
+[^23]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” University of Chicago News, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
 
 #### 1943
 - February 9th - Groves and Patterson approve the Hanford Site and build location in Benton County, Washington, for the world's first plutonium-producing reactor.[^31]
@@ -128,13 +124,13 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8a/Crossroads_Baker_bomb_explosion%2C_photographed_form_a_Grumman_F6F-5K_Hellcat_drone%2C_25_July_1946.jpg?20200607111956)
 
-[^31]: [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
+[^31]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
 
 
-[^32]: [https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project](https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project)
+[^32]: “Timeline of the Manhattan Project.” Wikipedia, 11 Feb. 2023, [https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project](https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project)
 
 
-[^33]: [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
+[^33]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
 
 
 ### 1950s
@@ -164,7 +160,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - November 22nd - The United States Navy commissioned the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
 #### 1961
 - October 30th - The Soviet Union tests a hydrogen bomb with a yield of **50 megatons** named *Tsar Bomba* – the biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about **15 megatons.**[^36]
-[^36]: [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
+[^36]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
 - October 16th - 29th - The *Cuban Missile Crisis* was a thirteen-day period in which the United States and the Soviet Union came the closest to nuclear war.[^41]
 #### 1963
@@ -179,9 +175,9 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_%2810967640793%29.jpg/618px-Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_%2810967640793%29.jpg) 
-[^41]: [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
+[^41]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” Arms Races in International Politics: From the Nineteenth to the Twenty-First Century, Oxford University Press, [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
-[^42]: [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
+[^42]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
 
 ### 1970s
 #### 1970
@@ -209,95 +205,3 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/1600px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?20130624160924)
 
-## Nuclear Protests
-### Pro-Nuclear Protests
-INTRO TEXT
-[^50]
-[^51]
-[^52]
-
-*It’s Expensive!* It is, yes. Because of construction and installation costs, nuclear energy is one of the most expensive forms of energy – far more than solar or wind. Unlike solar or energy, nuclear plants can keep creating energy 24/7, even when the sun isn’t out or the wind isn’t blowing. Nuclear Power Versus Renewable Energy. 
-
-*It’s Dangerous & Dirty!* Looking at the rate of death from accidents and air pollution, as well as the greenhouse gas emissions from eight different energy sources – coal, oil, natural gas, biomass, hydropower, wind, nuclear energy, and solar – the conclusions aren’t difficult to draw. Of these sources, nuclear has the second lowest rate of death and lowest greenhouse gas emissions.[^53]
-
-![](https://ourworldindata.org/uploads/2020/11/5-Bar-chart-%E2%80%93-What-is-the-safest-form-of-energy-1536x827.png)
-
-*What About the Waste?* There is a very common misconception about how much waste there actually is – “all of the nuclear waste ever produced from commercial power production could fit on a football field about 24 feet high.”[^54]
-
-*How about the Land Usage?* A 1,000-megawatt nuclear reactor needs about **1.3 square miles** of land. To produce the same amount, a wind farm needs between **260 and 360 square miles**. A solar facility needs between **45 and 75 square miles**. To put this into perspective, the District of Columbia takes up about **68 square miles** and the five boroughs in New York City take up **305 square miles**.[^55]
-
-Some pro-nuclear groups include: the World Nuclear Association, the Breakthrough Institute, Generation Atomic, the Earth Institute, the Thorium Energy Alliance, and the Vatican. [^56]
-
-[^50]: [https://en.wikipedia.org/wiki/Pro-nuclear_movement](https://en.wikipedia.org/wiki/Pro-nuclear_movement)
-
-[^51]: [https://www.washingtonpost.com/business/interactive/2022/nuclear-power-fear/?itid=lk_inline_manual_7](https://www.washingtonpost.com/business/interactive/2022/nuclear-power-fear/?itid=lk_inline_manual_7)
-
-[^52]: [https://www.jstor.org/stable/44017053](https://www.jstor.org/stable/44017053)
-
-[^53]: [https://ourworldindata.org/safest-sources-of-energy](https://ourworldindata.org/safest-sources-of-energy)
-
-[^54]: [https://www.generationatomic.org/why-nuclear/](https://www.generationatomic.org/why-nuclear/)
-
-[^55]: [https://www.nei.org/news/2015/land-needs-for-wind-solar-dwarf-nuclear-plants](https://www.nei.org/news/2015/land-needs-for-wind-solar-dwarf-nuclear-plants)
-
-[^56]: [https://www.vaticannews.va/en/vatican-city/news/2019-09/holy-see-gallagher-iaea-conference-nuclear-peace-development.html](https://www.vaticannews.va/en/vatican-city/news/2019-09/holy-see-gallagher-iaea-conference-nuclear-peace-development.html)
-
-### Anti-Nuclear Protests
-The Cold War sparked anti-nuclear weapons protests all over the world, eventually snowballing into an anti-nuclear power movement from the 50s[^61] into the 60s. Today, many anti-nuclear groups protest both nuclear weapons and power. According to these groups, nuclear power is dangerous and expensive[^62] – at a far greater risk of accidents or attack than any other type of power plant, as well as being environmentally harmful in its fuel mining and waste disposal. These groups argue, especially after the Fukushima disaster in 2011, that nuclear power can never be completely safe, so should not be used at all.[^63]
-
-Some anti-nuclear groups include: Greenpeace, Friends of the Earth International, World Disarmament Campaign, the Sierra Club, Nevada Desert Experiment, Nuclear Control Institute, and the Musicians United for Safe Energy. [^64] Some anti-nuclear advocates also happen to be fossil fuel companies[^65], such as: The American Petroleum Institute, Pennsylvania Independent Oil and Gas Association (PIOGA), Marcellus Shale Coalition, ExxonMobil, Chevron, and Royal Dutch Shell, to name a few.[^66]
-
-
-### A Short List of Protests Against Nuclear Power [^67] {.cards}
-
-#### 1963 {href=#}
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/1f/Anti-nuclear_protest_at_the_NTS_2.jpg)
-
-A protest at the Nevada Test Site.
-
-#### 1977 {href=#}
-
-![](https://upload.wikimedia.org/wikipedia/commons/2/23/Anti-nuclear_protest%2C_USA%2C_1977_%282%29.jpg)
-
-A protest in Boston, Massachusetts.
-
-#### 1980 {href=#}
-
-![](https://upload.wikimedia.org/wikipedia/commons/d/de/Anti-nuclear_weapons_protest%2C_UK_1980.JPG)
-
-A march in Oxford, England.
-
-#### 2009 {href=#}
-
-![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Anti-Atom-Demo_%283891870071%29.jpg)
-
-A protest in Berlin, Germany.
-
-#### 2011 {href=#}
-
-![](https://upload.wikimedia.org/wikipedia/commons/8/8e/Anti-nuclear_protest_Madrid_20110508-B.jpg)
-
-A protest against Spanish nuclear plants.
-
-#### 2013 {href=#}
-
-![](https://upload.wikimedia.org/wikipedia/commons/1/19/Longmen_Nuclear_Power_Plant_from_VOA_%284%29.jpg?20130923054741)
-
-A protest in Tawian.
-
-
-
-[^61]: [https://cnduk.org/campaigns/no-nuclear-power/](https://cnduk.org/campaigns/no-nuclear-power/)
-
-[^62]: [https://www.greenpeace.org/usa/nuclear-power-is-a-losing-proposition/](https://www.greenpeace.org/usa/nuclear-power-is-a-losing-proposition/)
-
-[^63]: [https://en.wikipedia.org/wiki/Anti-nuclear_movement#Fossil_fuels_industry](https://en.wikipedia.org/wiki/Anti-nuclear_movement#Fossil_fuels_industry)
-
-[^64]: [https://en.wikipedia.org/wiki/Anti-nuclear_groups_in_the_United_States](https://en.wikipedia.org/wiki/Anti-nuclear_groups_in_the_United_States)
-
-[^65]: [https://www.forbes.com/sites/michaelshellenberger/2019/03/28/the-dirty-secret-of-renewables-advocates-is-that-they-protect-fossil-fuel-interests-not-the-climate/?sh=664987991b07](https://www.forbes.com/sites/michaelshellenberger/2019/03/28/the-dirty-secret-of-renewables-advocates-is-that-they-protect-fossil-fuel-interests-not-the-climate/?sh=664987991b07)
-
-[^66]: [https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/?sh=500938d67453](https://www.forbes.com/sites/kensilverstein/2016/07/13/are-fossil-fuel-interests-bankrolling-the-anti-nuclear-energy-movement/?sh=500938d67453)
-
-[^67]: [https://en.wikipedia.org/wiki/Anti-nuclear_protests](https://en.wikipedia.org/wiki/Anti-nuclear_protests)
