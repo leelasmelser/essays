@@ -208,3 +208,25 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**
 
 .ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg
+
+
+## Further Reading {.cards}
+
+### Accidents & Disasters {href=#}
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
+
+*Nuclear accidents over time.*
+
+### Present & Future {href=#}
+
+![]( )
+
+*The present and future of nuclear energy.*
+
+### How It Works {href=#}
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
+
+*How nuclear power and reactors work.*
+
