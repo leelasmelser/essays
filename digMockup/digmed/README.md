@@ -1,4 +1,9 @@
 .ve-header "The History of Nuclear Power" wc:Laura_and_Enrico_Fermi_1954.jpg height=500 sticky
+    - [Home](/)
+    - [History](nuclear-history/)
+    - [Science](science/)
+    - [Disasters](nuclear-disasters/)
+    - [Present and Future](present-and-future/)
 
 ## Origins of Nuclear Power[^1]
 
