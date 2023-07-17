@@ -45,7 +45,7 @@ The idea of the atom has been around for centuries – the Greeks believing that
 - May 17th - Arthur Compton at the National Academy of Sciences reports favorably on the prospects of military uses of nuclear power. 
 - June 28th - Roosevelt creates the Office of Scientific Research and Development (OSRD), which absorbs the NDRC and Uranium committees.
 - July 15th - The MAUD Committee issues a final report on the design and cost of building an atomic bomb.
-August 20th - Prime Minister Churchill becomes the first leader to approve a nuclear weapons program, the Tube Alloys.
+- August 20th - Prime Minister Churchill becomes the first leader to approve a nuclear weapons program, the Tube Alloys.
 - October 9th - An official copy of the MAUD report is taken to President Roosevelt, who approves a project to confirm findings in the United States.
 - December 6th - Vannevar Bush, the head of OSRD, organizes an accelerated research project to be managed by Arthur Compton.
 - December 7th - Japan launches a surprise military attack on Pearl Harbor in Honolulu, Hawaii.
@@ -58,7 +58,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - January 24th - Arthur Compton centralizes plutonium research at the University of Chicago.
 - July - September - A conference is held at UC Berkeley to discuss potential designs for a fission bomb. Edward Teller suggests a hydrogen bomb.
 - August 13th - The Manhattan Engineering District is established.
-- September 23rd - Lieutenant General Leslie Groves becomes director of the Manhattan Project
+- September 23rd - Lieutenant General Leslie Groves becomes director of the Manhattan Project.
 - September 29th - Secretary of War Robert P. Patterson authorizes Site X, the Oak Ridge, Tennessee laboratory.
 - October 19th - Groves appoints Robert Oppenheimer to coordinate the project at Site Y, the Los Alamos, New Mexico laboratory.
 - **December 2nd - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.**[^5] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^6] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^7]
@@ -209,7 +209,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
 - March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^15]
 #### 1986
-- **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**[^16]
+- **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^16]
 
 .ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg
 
