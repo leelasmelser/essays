@@ -218,6 +218,12 @@ The idea of the atom has been around for centuries – the Greeks believing that
 
 ## Further Reading {.cards}
 
+### Science {href=https://digbmc.github.io/reactor-jct/science}
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
+
+*How nuclear power and reactors work.*
+
 ### Accidents & Disasters {href=https://digbmc.github.io/reactor-jct/nuclear-disasters}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
@@ -230,9 +236,4 @@ The idea of the atom has been around for centuries – the Greeks believing that
 
 *The present and future of nuclear energy.*
 
-### How It Works {href=https://digbmc.github.io/reactor-jct/science}
-
-![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
-
-*How nuclear power and reactors work.*
 
