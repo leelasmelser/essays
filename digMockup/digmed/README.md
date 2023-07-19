@@ -48,7 +48,9 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 
 [^8]: “Short History of the Russian Nuclear Industry.” Rosatom, rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/. Accessed 17 July 2023. [https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/](https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/)
 
-.ve-media wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg static caption="Einstein&Szilard" size=280,164
+.ve-media wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg static caption="Einstein and Szilard" static width="32"
+
+<a title="Time Life Pictures, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg"><img width="256" alt="1-Einstein and Szilard letter to Roosevelt NNSA" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg"></a>
 
 ### 1940s
 #### 1940
@@ -184,7 +186,8 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 #### 1959
 - The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^19]
 
-.ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg
+.ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg 
+
 
 [^17]: “Obninsk Nuclear Power Plant.” Wikipedia, 2 July 2023, en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant. [https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant)
 
