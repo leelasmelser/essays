@@ -77,7 +77,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - October 19th - Groves appoints Robert Oppenheimer to coordinate the project at Site Y, the Los Alamos, New Mexico laboratory.
 - December 2nd - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.[^9] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^10] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^11]
 
-.ve-media wc:Chicago_pile_I_banner.jpg
+.ve-media wc:Chicago_pile_I_banner.jpg static caption="Chicago Pile-1"
 
 [^9]: Lerner, Louise. “The First Nuclear Reactor, Explained.” University of Chicago News, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
 
@@ -106,7 +106,6 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - September 22nd - The first Radioactive Lanthanum (RaLa) Experiment with a radioactive source takes place at Los Alamos.
 - September 26th - The largest nuclear reactor, the B Reactor, goes critical at the Hanford Site.
 - November - Samuel Goudsmit concludes that German scientists didn’t make substantial progress towards nuclear bombs or reactors, as the programs were not a high priority.
-
 
 #### 1945
 - January 7th - The first RaLa test using exploding-bridgewire detonators occurs.
@@ -145,7 +144,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - March 1st - The AEC announces the selection of a site in Idaho for the National Reactor Testing Station.
 - August 29th - The Soviet Union tests its first atomic bomb, called ‘First Lightning’ by the West.
 
-.ve-media wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg
+.ve-media wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg static caption="The Baker Bomb"
 
 
 [^12]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
@@ -184,7 +183,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 #### 1959
 - The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^19]
 
-.ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg 
+.ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg static caption="Soviet Postage Stamp for the Confrence on the Peaceful Uses of Atomic Energy"
 
 
 [^17]: “Obninsk Nuclear Power Plant.” Wikipedia, 2 July 2023, en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant. [https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant)
@@ -213,7 +212,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^22]
 #### 1969
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
-.ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg
+.ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg static caption="SNAP-10A Reactor"
 
 [^21]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” Arms Races in International Politics: From the Nineteenth to the Twenty-First Century, Oxford University Press, [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
@@ -239,7 +238,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^24]
 - June 17th - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24th - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
-.ve-media wc:3MileIsland.jpg
+.ve-media wc:3MileIsland.jpg static caption="Three Mile Island Reactor"
 
 [^24]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
 
@@ -253,7 +252,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 #### 1986
 - **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^26]
 
-.ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg
+.ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013"
 
 [^25]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
 [^26]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
