@@ -48,9 +48,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 
 [^8]: “Short History of the Russian Nuclear Industry.” Rosatom, rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/. Accessed 17 July 2023. [https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/](https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/)
 
-.ve-media wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg static caption="Einstein and Szilard" static width="32"
-
-<a title="Time Life Pictures, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg"><img width="256" alt="1-Einstein and Szilard letter to Roosevelt NNSA" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg"></a>
+.ve-media wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg static caption="Einstein and Szilard"
 
 ### 1940s
 #### 1940
