@@ -177,22 +177,30 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 #### 1957
 - October 1st - The United Nations created the *International Atomic Energy Agency* (IAEA) to promote peaceful applications of nuclear power and to prevent the spread of nuclear weapons.
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
+- November 3rd - The Soviet Union launches Sputnik 2, a satellite carrying a dog named Laika into space. Laika is the first earthling to reach space. There was never a plan for her reentry. Dr. Vladimir Yazdovsky took Laika home to play with his children before the launch, writing “Laika was quiet and charming ... I wanted to do something nice for her: She had so little time left to live.”[^18] Yevgeniy Shabrov recalls from the day of the launch: “after placing Laika in the container and before closing the hatch, we kissed her nose and wished her bon voyage, knowing that she would not survive the flight.”[^19]
+
 .ve-media grid caption="Sputnik 1, 1957"
     - wc:Sputnik-516.jpg
 
 #### 1958
+- January 31st - The first satellite launched by the United States, Explorer 1, reaches space.[^20]
 - The first successful United States test of ICBM took place, and NASA is created.
 - The United States, the Soviet Union, and the United Kingdom test over 100 nuclear devices.
 
 #### 1959
-- The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^18]
-
+- The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^21]
 
 [^16]: “Obninsk Nuclear Power Plant.” Wikipedia, 2 July 2023, en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant. [https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant)
 
 [^17]: Rao, Bhaskara, and Prabhakara Rao. NUCLEAR ENERGY SCENARIO OF ASIAN DEVELOPING COUNTRIES , http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf. [http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf](http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf)
 
-[^18]: Semenov, B.A. “Nuclear Power in the Soviet Union.” International Atomic Energy Agency, www.iaea.org/sites/default/files/25204744759.pdf. Accessed 19 July 2023. [https://www.iaea.org/sites/default/files/25204744759.pdf](https://www.iaea.org/sites/default/files/25204744759.pdf)
+[^18]: Isachenkov, Vladimir. “Space Dog Monument Opens in Russia.” NBC News, 11 Apr. 2008, https://www.nbcnews.com/id/wbna24069819. Accessed 20 July 2023.[https://www.nbcnews.com/id/wbna24069819](https://www.nbcnews.com/id/wbna24069819) 
+
+[^19]: Zak, Anatoly. “Preparing Sputnik-2 for Flight.” Sputnik-2, 3 Nov. 2003, www.russianspaceweb.com/sputnik2_preflight.html.[https://www.russianspaceweb.com/sputnik2_preflight.html](https://www.russianspaceweb.com/sputnik2_preflight.html)
+
+[^20]: “Space Race Timeline.” Royal Museums Greenwich, www.rmg.co.uk/stories/topics/space-race-timeline. Accessed 20 July 2023. [https://www.rmg.co.uk/stories/topics/space-race-timeline](www.rmg.co.uk/stories/topics/space-race-timeline)
+
+[^21]: Semenov, B.A. “Nuclear Power in the Soviet Union.” International Atomic Energy Agency, www.iaea.org/sites/default/files/25204744759.pdf. Accessed 19 July 2023. [https://www.iaea.org/sites/default/files/25204744759.pdf](https://www.iaea.org/sites/default/files/25204744759.pdf)
 
 ### 1960s
 #### 1960
@@ -200,37 +208,41 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - November 22nd - The United States Navy commissions the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
 
 #### 1961
-- October 30th - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^19]
-[^19]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
+- January 31st - The first hominid, an American chimpanzee named Ham, reaches space and successfully survives the landing.
+- April 12th - Yuri Gagarin of the Soviet Union is the first man in space aboard the Vostok 1.
+- October 30th - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^22]
+[^22]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
-- October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^20]
+- October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^23]
 #### 1963
 - August 5th - The *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom is signed, limiting the kinds of nuclear testing that can be done. 
 #### 1964
 - August 26th - President Johnson signs the *Private Ownership of Special Nuclear Materials Act,* allowing the nuclear power industry to create its own fuel and requiring private ownership of uranium fuel.
 #### 1965
+- March 18th - Alexei Leonov of the Soviet Union conducts the first ever spacewalk.
 - April 3rd - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
 #### 1968
-- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^21]
+- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^24]
 #### 1969
+- July 20th - The Apollo 11 successfully reaches the moon with a crew of Neil Armstrong, Edwin “Buzz” Aldrin, and Michael Collins.
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
 
 .ve-media grid caption="SNAP-10A Reactor"
     - wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg
 
 
-[^20]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
+[^23]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
-[^21]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, www.cfr.org/timeline/us-russia-nuclear-arms-control. Accessed 7 July 2023. [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
+[^24]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, www.cfr.org/timeline/us-russia-nuclear-arms-control. Accessed 7 July 2023. [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
 
 ### 1970s
 #### 1970
 - March 5th - The *Treaty for Non-Proliferation of Nuclear Weapons* becomes effective.
 #### 1972
 - May 26th - The *Interim Strategic Arms Limitation Treaty,* or SALT I, and the *Anti-Ballistic Missile* Treaty, or ABM, is signed by the United States and the Soviet Union. 
-- The first commercial breeder reactor in the Soviet Union goes online in Shevchenko, Kazakhstan.[^22]
+- The first commercial breeder reactor in the Soviet Union goes online in Shevchenko, Kazakhstan.[^25]
 
-[^22]: Pryde, Philip R. “Nuclear Energy in the Soviet Union.” Current History, vol. 77, no. 450, 1979, pp. 115–35. JSTOR, http://www.jstor.org/stable/45319372. Accessed 19 July 2023.[https://www.jstor.org/stable/pdf/45319372.pdf](https://www.jstor.org/stable/pdf/45319372.pdf)
+[^25]: Pryde, Philip R. “Nuclear Energy in the Soviet Union.” Current History, vol. 77, no. 450, 1979, pp. 115–35. JSTOR, http://www.jstor.org/stable/45319372. Accessed 19 July 2023.[https://www.jstor.org/stable/pdf/45319372.pdf](https://www.jstor.org/stable/pdf/45319372.pdf)
 #### 1974
 - October 11th - The *Energy Reorganization Act* of 1974 divides the Atomic Energy Commission’s functions, creating the Energy Research and Development Administration (ERDA) for research and design and the Nuclear Regulatory Commission (NRC) to regulate nuclear power.
 - November 1st - The first RBMK reactor begins operating at the Leningrad Nuclear Power Plant. 
@@ -240,13 +252,13 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - October 1st - The Department of Energy begins operations.
 - A third nuclear-powered ice-breaker ship, Sibir, is constructed.
 #### 1979
-- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^23]
+- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^26]
 - June 17th - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24th - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
 .ve-media grid caption="Three Mile Island Reactor"
     - wc:3MileIsland.jpg
 
-[^23]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
+[^26]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
 
 
 ### 1980s
@@ -254,14 +266,14 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - January 2nd - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
 #### 1983
 - January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
-- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^24]
+- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^27]
 #### 1986
-- **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^25]
+- **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^28]
 
 .ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013"
 
-[^24]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
-[^25]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
+[^27]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
+[^28]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
 
 ## Further Reading {.cards}
 
