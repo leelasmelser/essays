@@ -6,15 +6,17 @@
     - [Disasters](nuclear-disasters/)
     - [Present and Future](present-and-future/)
 
-## Origins of Nuclear Research[^1]
+# INTRO
 
+
+# Origins of Nuclear Research[^1]
 The idea of the atom has been around for centuries — the Greeks believed that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible.[^2] In 1789, a German chemist discovered the element uranium, named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation, an energy released by atoms that appears as particles, such as neutrons, or electromagnetic waves, such as gamma or X-rays. Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898. Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
 
 [^1]: “Outline History of Nuclear Energy.” World Nuclear Association, Nov. 2020. [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
 [^2]: “The History of Nuclear Energy.” The Department of Energy, [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
 [^3]: “Ionizing Radiation, Health Effects and Protective Measures.” World Health Organization, 29 Apr. 2016, [https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures](https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-health-effects-and-protective-measures)
 
-
+# Nuclear Development from the 1930s to the 1980s
 ## {.tabs style=height:1200px}
 
 ### 1930s
@@ -26,13 +28,13 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - April 14th – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
 - September 24th - 30th - The third international conference on nuclear physics is held at the Abram Ioffe’s Physico-Technical Institute in Leningrad.[^4]
 [^4]: Stuewer, Roger H. “Nuclear Physicists at the Crossroads.” The Age of Innocence: Nuclear Physics Between the First and Second World Wars, Oxford University Press, 2022, pp. 216–247, https://academic.oup.com/book/26094/chapter/194080423. Accessed 19 July 2023. [https://academic.oup.com/book/26094/chapter/194080423](https://academic.oup.com/book/26094/chapter/194080423)
-- October 10th - The first experiments into nuclear fission in the USSR are conducted at the UIPhT.[^5]
+- October 10th - The first experiments into nuclear fission in the USSR are conducted at the National Science Center Kharkiv Institute of Physics and Technology (KIPT) in Ukraine.[^5]
 [^5]: “Kharkiv Institute of Physics and Technology.” Wikipedia, 2 Feb. 2023, en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology. [https://en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology](en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology.)
 #### 1934
-- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. [^6]
-[^6]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
+- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. 
 #### 1935
-- October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.
+- October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.[^6]
+[^6]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
 #### 1938
 - Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements — such as barium — which demonstrates atomic fission.
 #### 1939
@@ -40,7 +42,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - Leo Szilard and Fermi propose a new method of slowing emitted neutrons to more effectively cause fission.
 - Francis Perrin demonstrates fission in a uranium and water mixture and uses a neutron-absorbing material to control the reaction.  
 - Werner Heisenberg calculated the possibility of a nuclear chain reaction and that it could generate energy.
-- Yakov Zeldovich, Yuliy Khariton and Alexander Leypunsky prove that a nuclear chain reaction is theoretically possible at the Radium Laboratory (renamed the Khlopin Radium Institute in 1950) in Russia.[^8]
+- Yakov Zeldovich, Yuliy Khariton, and Alexander Leypunsky prove that a nuclear chain reaction is theoretically possible at the Radium Laboratory (renamed the Khlopin Radium Institute in 1950) in Russia.[^8]
 - September 1st - World War Two begins.
 - October 11th - The Einstein-Szilard letter is delivered to Roosevelt, advising him to look into nuclear fission as a weapon, as Germany may already be researching it.
 - October 21st - The Advisory Committee on Uranium meets for the first time.
@@ -49,7 +51,10 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 
 [^8]: “Short History of the Russian Nuclear Industry.” Rosatom, rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/. Accessed 17 July 2023. [https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/](https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/)
 
-.ve-media wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg static caption="Einstein and Szilard"
+.ve-media grid caption="Irène and Frédéric Joliot-Curie (1935), Einstein and Szilard (1946)"
+    - wc:Ir%C3%A8ne_et_Fr%C3%A9d%C3%A9ric_Joliot-Curie_1935.jpg
+    - wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg
+
 
 ### 1940s
 #### 1940
@@ -58,7 +63,6 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - June 12th - President Roosevelt creates the National Defense Research Committee (NDRC), which absorbs the Uranium Committee.
 
 #### 1941
-- February 25th - Glenn Seaborg and Arthur Wahl conclusively discover plutonium at the University of California, Berkeley.
 - May 17th - Arthur Compton at the National Academy of Sciences reports favorably on the prospects of military uses of nuclear power. 
 - June 22nd - Germany invades the Soviet Union, halting nuclear research.
 - June 28th - Roosevelt creates the Office of Scientific Research and Development (OSRD), which absorbs the NDRC and Uranium committees.
@@ -100,14 +104,12 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 
 #### 1944
 - April 5th - Emilio Segre receives the first sample of plutonium from the Oak Ridge reactor and discovers that the fission rate is too high for a gun-type weapon.
-- July 4th - Oppenheimer reveals Segre’s measurements and the development of a gun-type plutonium weapon.
 - July 17th - The Thin Man gun-type is abandoned, as it is impractical to use with plutonium, making an implosion-type weapon, the Fat Man bomb, a top priority. Research on a uranium gun-type continues with Little Boy, a gun-type using Uranium-235 at Clinton Engineer Works in Oak Ridge, Tennessee.
 - September 22nd - The first Radioactive Lanthanum (RaLa) Experiment with a radioactive source takes place at Los Alamos.
 - September 26th - The largest nuclear reactor, the B Reactor, goes critical at the Hanford Site.
 - November - Samuel Goudsmit concludes that German scientists didn’t make substantial progress towards nuclear bombs or reactors, as the programs were not a high priority.
 
 #### 1945
-- January 7th - The first RaLa test using exploding-bridgewire detonators occurs.
 - February 2nd - The first plutonium created at the Hanford Site arrives at Los Alamos.
 - April 27th - The first meeting of the Target Committee at Los Alamos occurs to determine potential locations to bomb in Japan, such as Kyoto, Hiroshima, Yokohama, the Kokura Arsenal, and Niigata.
 - May 7th - Germany surrenders.
@@ -122,10 +124,6 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - August 9th - The B-29 plane ‘Bockscar’ drops *Fat Man* on Nagasaki because Kokura was obscured by clouds and smoke.
 - August 15th - Japan surrenders.
 - August 20th - A special committee is established to work on uranium under the State Defense Committee of the USSR.[^14]
-- September 8th - The Manhattan Project survey group under General Thomas Farrell arrives in Hiroshima.
-- September 17th - The Manhattan Project survey group under Colonel Stafford Warren arrives in Nagasaki.
-- September 26th - The Manhattan Project survey group under Captain Hymer Friedell arrives in Hiroshima.
-- October 16th - Oppenheimer resigns as director of the Los Alamos Laboratory, and Norris Bradbury is promoted to the role.
 
 #### 1946
 - February - A Soviet spy ring in Canada is exposed by defector Igor Gouzenko, resulting in “atomic spy hysteria,” which pushed American Congressional discussions about postwar atomic regulation.
@@ -143,7 +141,10 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - March 1st - The AEC announces the selection of a site in Idaho for the National Reactor Testing Station.
 - August 29th - The Soviet Union tests its first atomic bomb, called ‘First Lightning’ by the West.
 
-.ve-media wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg static caption="The Baker Bomb"
+.ve-media grid caption="The Baker Bomb"
+    - wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg
+    - wc:Crossroads_baker_explosion.jpg
+    - wc:Operation_Crossroads_Baker.jpg
 
 
 [^12]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
@@ -168,19 +169,23 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - July 17th - Arco, Idaho, becomes the first nuclear-powered town using the water boiler reactor BORAX III.
 - August 8th - 20th - The first United Nations International Conference on the Peaceful Uses of Atomic Energy was held in Geneva, Switzerland.
 - November 22nd - The Soviet Union tests its first hydrogen bomb.
+.ve-media grid caption="Soviet Postage Stamp for the Confrence on the Peaceful Uses of Atomic Energy"
+    - wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg
+
 #### 1956
 - October 17th - The first nuclear power station built to produce commercial energy, Calder Hall, is opened in Seascale, England.[^17]
 #### 1957
 - October 1st - The United Nations created the *International Atomic Energy Agency* (IAEA) to promote peaceful applications of nuclear power and to prevent the spread of nuclear weapons.
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
+.ve-media grid caption="Sputnik 1, 1957"
+    - wc:Sputnik-516.jpg
+
 #### 1958
 - The first successful United States test of ICBM took place, and NASA is created.
 - The United States, the Soviet Union, and the United Kingdom test over 100 nuclear devices.
 
 #### 1959
 - The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^18]
-
-.ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg static caption="Soviet Postage Stamp for the Confrence on the Peaceful Uses of Atomic Energy"
 
 
 [^16]: “Obninsk Nuclear Power Plant.” Wikipedia, 2 July 2023, en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant. [https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant)
@@ -209,7 +214,10 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^21]
 #### 1969
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
-.ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg static caption="SNAP-10A Reactor"
+
+.ve-media grid caption="SNAP-10A Reactor"
+    - wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg
+
 
 [^20]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
@@ -235,7 +243,8 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^23]
 - June 17th - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24th - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
-.ve-media wc:3MileIsland.jpg static caption="Three Mile Island Reactor"
+.ve-media grid caption="Three Mile Island Reactor"
+    - wc:3MileIsland.jpg
 
 [^23]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
 
