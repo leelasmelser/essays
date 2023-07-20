@@ -79,20 +79,18 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 
 .ve-media wc:Chicago_pile_I_banner.jpg static caption="Chicago Pile-1"
 
-[^9]: Lerner, Louise. “The First Nuclear Reactor, Explained.” University of Chicago News, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
+[^9]: Lerner, Louise. “The First Nuclear Reactor, Explained.” *University of Chicago News*, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
 
-[^10]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” University of Chicago News, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
+[^10]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” *University of Chicago News*, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
 
-[^11]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” University of Chicago News, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
+[^11]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” *University of Chicago News*, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
 
 #### 1943
-- February 9th - Groves and Patterson approve the Hanford Site and build location in Benton County, Washington, for the world's first plutonium-producing reactor.
-[^12]
+- February 9th - Groves and Patterson approve the Hanford Site and build location in Benton County, Washington, for the world's first plutonium-producing reactor.[^12]
 - February 18th - Construction begins on the electromagnetic separation plant for enriching uranium at Oak Ridge, Tennessee.
 - April 1st - The Los Alamos Laboratory is established in New Mexico.
 - July - The Los Alamos Laboratory, Clinton Engineer Works (CEW), and Hanford Engineer Works (HEW) are designated as military districts, removing them from state control.
-- July 10th - The first sample of plutonium arrives at the Los Alamos Laboratory.
-[^13]
+- July 10th - The first sample of plutonium arrives at the Los Alamos Laboratory.[^13]
 - August 13th - The first drop test of a gun-type fission weapon at Dahlgren Proving Ground in Virginia takes place.
 - August 19th - President Roosevelt and Prime Minister Churchill sign the Quebec Agreement, merging the Tube Alloys with Manhattan Project.[^14]
 - September 8th - The first meeting of the Combined Policy Committee is held to coordinate the atomic efforts of the United States, Great Britain, and Canada.
@@ -214,9 +212,9 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
 .ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg static caption="SNAP-10A Reactor"
 
-[^21]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” Arms Races in International Politics: From the Nineteenth to the Twenty-First Century, Oxford University Press, [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
+[^21]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
-[^22]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
+[^22]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, www.cfr.org/timeline/us-russia-nuclear-arms-control. Accessed 7 July 2023. [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
 
 ### 1970s
 #### 1970
