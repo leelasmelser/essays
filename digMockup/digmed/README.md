@@ -91,9 +91,9 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - February 18th - Construction begins on the electromagnetic separation plant for enriching uranium at Oak Ridge, Tennessee.
 - April 1st - The Los Alamos Laboratory is established in New Mexico.
 - July - The Los Alamos Laboratory, Clinton Engineer Works (CEW), and Hanford Engineer Works (HEW) are designated as military districts, removing them from state control.
-- July 10th - The first sample of plutonium arrives at the Los Alamos Laboratory.[^13]
+- July 10th - The first sample of plutonium arrives at the Los Alamos Laboratory.
 - August 13th - The first drop test of a gun-type fission weapon at Dahlgren Proving Ground in Virginia takes place.
-- August 19th - President Roosevelt and Prime Minister Churchill sign the Quebec Agreement, merging the Tube Alloys with Manhattan Project.[^14]
+- August 19th - President Roosevelt and Prime Minister Churchill sign the Quebec Agreement, merging the Tube Alloys with Manhattan Project.[^13]
 - September 8th - The first meeting of the Combined Policy Committee is held to coordinate the atomic efforts of the United States, Great Britain, and Canada.
 - October 10th - Construction of the first Hanford Site reactor begins.
 - November 4th - The X-10 Graphite Reactor goes critical at Oak Ridge.
@@ -121,7 +121,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - August 6th - The B-29 plane ‘Enola Gay’ drops *Little Boy* on Hiroshima.
 - August 9th - The B-29 plane ‘Bockscar’ drops *Fat Man* on Nagasaki because Kokura was obscured by clouds and smoke.
 - August 15th - Japan surrenders.
-- August 20th - A special committee is established to work on uranium under the State Defense Committee of the USSR.[^15]
+- August 20th - A special committee is established to work on uranium under the State Defense Committee of the USSR.[^14]
 - September 8th - The Manhattan Project survey group under General Thomas Farrell arrives in Hiroshima.
 - September 17th - The Manhattan Project survey group under Colonel Stafford Warren arrives in Nagasaki.
 - September 26th - The Manhattan Project survey group under Captain Hymer Friedell arrives in Hiroshima.
@@ -132,7 +132,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - July 1st - The testing at Bikini Atoll in the Marshall Islands commenced with the test of the Able bomb as part of Operation Crossroads.
 - July 25th - The Baker bomb is tested at Bikini Atoll to determine the effects of a nuclear device underwater. Baker sank eight ships and permanently contaminated the rest.  
 - August 1st - President Truman signs the *Atomic Energy Act of 1946* into law, ending the uncertainty regarding control of atomic research in the postwar United States, as well as creating the Atomic Energy Commission (AEC) to control nuclear energy development and explore peaceful uses of nuclear energy.
-- December 25th - The F-1 reactor achieves a self-sustaining chain reaction at the Kurchatov Institute in Russia. This is the first working nuclear reactor in the USSR and Europe.[^16]
+- December 25th - The F-1 reactor achieves a self-sustaining chain reaction at the Kurchatov Institute in Russia. This is the first working nuclear reactor in the USSR and Europe.[^15]
 
 #### 1947
 - January 1st - The *Atomic Energy Act of 1946,* or the McMahon Act, takes effect. The Manhattan Project is turned over to the United States Atomic Energy Commission.
@@ -148,13 +148,11 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 
 [^12]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
 
-[^13]: “Timeline of the Manhattan Project.” Wikipedia, 11 Feb. 2023, [https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project](https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project)
+[^13]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
 
-[^14]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
+[^14]: Holloway, David. “Entering the Nuclear Arms Race: The Soviet Decision to Build the Atomic Bomb, 1939-45.” Social Studies of Science, vol. 11, no. 2, 1981, pp. 159–197, https://doi.org/10.1177/030631278101100201. [https://www.jstor.org/stable/pdf/284865.pdf](https://www.jstor.org/stable/pdf/284865.pdf)
 
-[^15]: Holloway, David. “Entering the Nuclear Arms Race: The Soviet Decision to Build the Atomic Bomb, 1939-45.” Social Studies of Science, vol. 11, no. 2, 1981, pp. 159–197, https://doi.org/10.1177/030631278101100201. [https://www.jstor.org/stable/pdf/284865.pdf](https://www.jstor.org/stable/pdf/284865.pdf)
-
-[^16]: “F-1 (Nuclear Reactor).” Wikipedia, 1 July 2023, en.wikipedia.org/wiki/F-1_(nuclear_reactor).[https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)](https://en.wikipedia.org/wiki/F-1_(nuclear_reactor))
+[^15]: “F-1 (Nuclear Reactor).” Wikipedia, 1 July 2023, en.wikipedia.org/wiki/F-1_(nuclear_reactor).[https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)](https://en.wikipedia.org/wiki/F-1_(nuclear_reactor))
 
 ### 1950s
 #### 1950
@@ -165,13 +163,13 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - August 12th - The Soviet Union tests a thermonuclear device, RDS-6s, for the first time. 
 #### 1954
 - March 1st - The United States performs the Castle Bravo test, resulting in the largest yield by an American nuclear device at about 15 megatons.
-- June 27th - The world’s first grid-connected nuclear power plant, Obninsk, is put into operation in the Soviet Union.[^17]
+- June 27th - The world’s first grid-connected nuclear power plant, Obninsk, is put into operation in the Soviet Union.[^16]
 #### 1955
 - July 17th - Arco, Idaho, becomes the first nuclear-powered town using the water boiler reactor BORAX III.
 - August 8th - 20th - The first United Nations International Conference on the Peaceful Uses of Atomic Energy was held in Geneva, Switzerland.
 - November 22nd - The Soviet Union tests its first hydrogen bomb.
 #### 1956
-- October 17th - The first nuclear power station built to produce commercial energy, Calder Hall, is opened in Seascale, England.[^18]
+- October 17th - The first nuclear power station built to produce commercial energy, Calder Hall, is opened in Seascale, England.[^17]
 #### 1957
 - October 1st - The United Nations created the *International Atomic Energy Agency* (IAEA) to promote peaceful applications of nuclear power and to prevent the spread of nuclear weapons.
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
@@ -180,16 +178,16 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - The United States, the Soviet Union, and the United Kingdom test over 100 nuclear devices.
 
 #### 1959
-- The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^19]
+- The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^18]
 
 .ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg static caption="Soviet Postage Stamp for the Confrence on the Peaceful Uses of Atomic Energy"
 
 
-[^17]: “Obninsk Nuclear Power Plant.” Wikipedia, 2 July 2023, en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant. [https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant)
+[^16]: “Obninsk Nuclear Power Plant.” Wikipedia, 2 July 2023, en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant. [https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant)
 
-[^18]: Rao, Bhaskara, and Prabhakara Rao. NUCLEAR ENERGY SCENARIO OF ASIAN DEVELOPING COUNTRIES , http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf. [http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf](http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf)
+[^17]: Rao, Bhaskara, and Prabhakara Rao. NUCLEAR ENERGY SCENARIO OF ASIAN DEVELOPING COUNTRIES , http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf. [http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf](http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf)
 
-[^19]: Semenov, B.A. “Nuclear Power in the Soviet Union.” International Atomic Energy Agency, www.iaea.org/sites/default/files/25204744759.pdf. Accessed 19 July 2023. [https://www.iaea.org/sites/default/files/25204744759.pdf](https://www.iaea.org/sites/default/files/25204744759.pdf)
+[^18]: Semenov, B.A. “Nuclear Power in the Soviet Union.” International Atomic Energy Agency, www.iaea.org/sites/default/files/25204744759.pdf. Accessed 19 July 2023. [https://www.iaea.org/sites/default/files/25204744759.pdf](https://www.iaea.org/sites/default/files/25204744759.pdf)
 
 ### 1960s
 #### 1960
@@ -197,10 +195,10 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - November 22nd - The United States Navy commissions the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
 
 #### 1961
-- October 30th - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^20]
-[^20]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
+- October 30th - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^19]
+[^19]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
-- October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^21]
+- October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^20]
 #### 1963
 - August 5th - The *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom is signed, limiting the kinds of nuclear testing that can be done. 
 #### 1964
@@ -208,23 +206,23 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 #### 1965
 - April 3rd - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
 #### 1968
-- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^22]
+- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^21]
 #### 1969
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
 .ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg static caption="SNAP-10A Reactor"
 
-[^21]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
+[^20]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
-[^22]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, www.cfr.org/timeline/us-russia-nuclear-arms-control. Accessed 7 July 2023. [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
+[^21]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, www.cfr.org/timeline/us-russia-nuclear-arms-control. Accessed 7 July 2023. [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
 
 ### 1970s
 #### 1970
 - March 5th - The *Treaty for Non-Proliferation of Nuclear Weapons* becomes effective.
 #### 1972
 - May 26th - The *Interim Strategic Arms Limitation Treaty,* or SALT I, and the *Anti-Ballistic Missile* Treaty, or ABM, is signed by the United States and the Soviet Union. 
-- The first commercial breeder reactor in the Soviet Union goes online in Shevchenko, Kazakhstan.[^23]
+- The first commercial breeder reactor in the Soviet Union goes online in Shevchenko, Kazakhstan.[^22]
 
-[^23]: Pryde, Philip R. “Nuclear Energy in the Soviet Union.” Current History, vol. 77, no. 450, 1979, pp. 115–35. JSTOR, http://www.jstor.org/stable/45319372. Accessed 19 July 2023.[https://www.jstor.org/stable/pdf/45319372.pdf](https://www.jstor.org/stable/pdf/45319372.pdf)
+[^22]: Pryde, Philip R. “Nuclear Energy in the Soviet Union.” Current History, vol. 77, no. 450, 1979, pp. 115–35. JSTOR, http://www.jstor.org/stable/45319372. Accessed 19 July 2023.[https://www.jstor.org/stable/pdf/45319372.pdf](https://www.jstor.org/stable/pdf/45319372.pdf)
 #### 1974
 - October 11th - The *Energy Reorganization Act* of 1974 divides the Atomic Energy Commission’s functions, creating the Energy Research and Development Administration (ERDA) for research and design and the Nuclear Regulatory Commission (NRC) to regulate nuclear power.
 - November 1st - The first RBMK reactor begins operating at the Leningrad Nuclear Power Plant. 
@@ -234,12 +232,12 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - October 1st - The Department of Energy begins operations.
 - A third nuclear-powered ice-breaker ship, Sibir, is constructed.
 #### 1979
-- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^24]
+- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^23]
 - June 17th - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24th - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
 .ve-media wc:3MileIsland.jpg static caption="Three Mile Island Reactor"
 
-[^24]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
+[^23]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
 
 
 ### 1980s
@@ -247,14 +245,14 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - January 2nd - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
 #### 1983
 - January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
-- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^25]
+- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^24]
 #### 1986
-- **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^26]
+- **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^25]
 
 .ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013"
 
-[^25]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
-[^26]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
+[^24]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
+[^25]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
 
 ## Further Reading {.cards}
 
