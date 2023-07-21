@@ -179,8 +179,8 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
 - November 3rd - The Soviet Union launches Sputnik 2, a satellite carrying a dog named Laika into space. Laika is the first earthling to reach space. There was never a plan for her reentry. Dr. Vladimir Yazdovsky took Laika home to play with his children before the launch, writing “Laika was quiet and charming ... I wanted to do something nice for her: She had so little time left to live.”[^18] Yevgeniy Shabrov recalls from the day of the launch: “after placing Laika in the container and before closing the hatch, we kissed her nose and wished her bon voyage, knowing that she would not survive the flight.”[^19]
 
-.ve-media grid caption="Sputnik 1, 1957"
-    - wc:Sputnik-516.jpg
+.ve-media grid caption="Laika"
+    - wc:Laika-creature-space-Sputnik-2-November-1957.webp
 
 #### 1958
 - January 31st - The first satellite launched by the United States, Explorer 1, reaches space.[^20]
