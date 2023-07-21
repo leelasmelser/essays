@@ -231,14 +231,19 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 #### 1965
 - March 18th - Alexei Leonov of the Soviet Union conducts the first ever spacewalk.
 - April 3rd - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
+.ve-media grid caption="SNAP-10A Reactor"
+    - wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg
+
 #### 1968
 - July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^24]
 #### 1969
 - July 20th - The Apollo 11 successfully reaches the moon with a crew of Neil Armstrong, Edwin “Buzz” Aldrin, and Michael Collins.
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
 
-.ve-media grid caption="SNAP-10A Reactor"
-    - wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg
+.ve-media grid caption="Apollo 11 and its crew"
+    - wc:Apollo_11_Crew.jpg
+    - wc:Aldrin_Apollo_11_original.jpg
+    - wc:Apollo_11_Launch_-_GPN-2000-000630.jpg
 
 
 [^23]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
@@ -278,7 +283,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
 - March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^27]
 #### 1986
-- **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^28]
+- April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.[^28]
 
 .ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013"
 
