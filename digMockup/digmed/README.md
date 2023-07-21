@@ -179,7 +179,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
 - November 3rd - The Soviet Union launches Sputnik 2, a satellite carrying a dog named Laika into space. Laika is the first earthling to reach space. There was never a plan for her reentry. Dr. Vladimir Yazdovsky took Laika home to play with his children before the launch, writing “Laika was quiet and charming ... I wanted to do something nice for her: She had so little time left to live.”[^18] Yevgeniy Shabrov recalls from the day of the launch: “after placing Laika in the container and before closing the hatch, we kissed her nose and wished her bon voyage, knowing that she would not survive the flight.”[^19]
 
-.ve-media grid caption="Laika"
+.ve-media grid caption="Laika, the first earthling in space"
     - wc:Laika-creature-space-Sputnik-2-November-1957.webp
 
 #### 1958
@@ -211,6 +211,15 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - January 31st - The first hominid, an American chimpanzee named Ham, reaches space and successfully survives the landing.
 - April 12th - Yuri Gagarin of the Soviet Union is the first man in space aboard the Vostok 1.
 - October 30th - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^22]
+
+.ve-media grid caption="Ham, the first hominid in space and Yuri Gagarin, the first man in space"
+    - wc:Ham_Retreival_GPN-2000-001004.jpg
+    - wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg
+    - wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg
+    - wc:Yuri_Gagarin_Capsule_and_space_suit.jpg
+    - wc:Yuri_Gagarin_(1961)_-_Restoration.jpg
+    - wc:Romania_1961_MI_1963_stamp_(Yuri_Gagarin_in_space_capsule_and_globe_with_orbit).jpg
+
 [^22]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
 - October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^23]
