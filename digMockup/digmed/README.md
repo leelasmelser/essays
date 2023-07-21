@@ -213,12 +213,12 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - October 30th - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^22]
 
 .ve-media grid caption="Ham, the first hominid in space and Yuri Gagarin, the first man in space"
-    - wc:Ham_Retreival_GPN-2000-001004.jpg
-    - wc:Ham_Tries_Out_His_Life_Support_System_-_GPN-2002-000046.jpg
-    - wc:Chimpanzee_Ham_in_Biopack_Couch_for_MR-2_flight_MSFC-6100114.jpg
-    - wc:Yuri_Gagarin_Capsule_and_space_suit.jpg
-    - wc:Yuri_Gagarin_(1961)_-_Restoration.jpg
-    - wc:Romania_1961_MI_1963_stamp_(Yuri_Gagarin_in_space_capsule_and_globe_with_orbit).jpg
+    - wc:HamRetreivalGPN-2000-001004.jpg
+    - wc:HamTriesOutHisLifeSupportSystem-GPN-2002-000046.jpg
+    - wc:ChimpanzeeHaminBiopackCouchforMR-2flightMSFC-6100114.jpg
+    - wc:YuriGagarinCapsuleandspacesuit.jpg
+    - wc:YuriGagarin(1961)-Restoration.jpg
+    - wc:Romania1961MI1963stamp(YuriGagarininspacecapsuleandglobewithorbit).jpg
 
 [^22]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
