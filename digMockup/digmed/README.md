@@ -216,9 +216,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
     - wc:HamRetreivalGPN-2000-001004.jpg
     - wc:HamTriesOutHisLifeSupportSystem-GPN-2002-000046.jpg
     - wc:ChimpanzeeHaminBiopackCouchforMR-2flightMSFC-6100114.jpg
-    - wc:YuriGagarinCapsuleandspacesuit.jpg
-    - wc:YuriGagarin(1961)-Restoration.jpg
-    - wc:Romania1961MI1963stamp(YuriGagarininspacecapsuleandglobewithorbit).jpg
+  
 
 [^22]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
